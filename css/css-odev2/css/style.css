@@ -1,0 +1,54 @@
+body{
+    margin: 8;
+    padding: 0;
+}
+.container{
+    margin:0 10% 0 10%;
+}
+/* Google-img classı üzerinden sayfayı ortalama yolunun hem içerik olan fotoğrafa, hem de block olarak kullandığım dive margin-left/right vermek olduğunu düşündüm. */
+.google-img{
+    margin-left: 25%;
+    margin-right: 25%;
+}
+.search{
+    background-color: #EEEEEE;
+    text-align: center;
+}
+input{
+    border-color: black;
+}
+.p-search{
+    padding: 0;
+    margin: 0;
+    padding-top: 5px;
+}
+.table{
+    margin-top: 0.2%;
+    text-align: center;
+}
+.card{
+    float: left;
+    margin-top: 0.01%;
+    text-align: center;
+    height: 85px;
+}
+#card-1{
+    width: 36%;
+    background-color: #7EE5DA;
+    margin-right: 0.25%;
+}
+#card-2{
+    width: 27.5%;
+    margin-right:0.25% ;
+    background-color: #70CCC2;
+}
+#card-3{
+    float: right;
+    width: 36%;
+    background-color: #62B3AA;
+}
+.p-card{
+    margin: 0;
+    font-size: small;
+}
+/* Sayfa bütününü ortalamaya çalıştığım için aynı görüntüyü sağlayamadım ancak böyle daha düzgün göründüğünü düşündüğüm için düzeltmeye ihtiyaç duymadım. */
