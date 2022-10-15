@@ -1,0 +1,15 @@
+C:\Users\LC\Documents\net-core\patika-odev1\soru-4\bin\Debug\net6.0\soru-4.exe
+C:\Users\LC\Documents\net-core\patika-odev1\soru-4\bin\Debug\net6.0\soru-4.deps.json
+C:\Users\LC\Documents\net-core\patika-odev1\soru-4\bin\Debug\net6.0\soru-4.runtimeconfig.json
+C:\Users\LC\Documents\net-core\patika-odev1\soru-4\bin\Debug\net6.0\soru-4.dll
+C:\Users\LC\Documents\net-core\patika-odev1\soru-4\bin\Debug\net6.0\soru-4.pdb
+C:\Users\LC\Documents\net-core\patika-odev1\soru-4\obj\Debug\net6.0\soru-4.csproj.AssemblyReference.cache
+C:\Users\LC\Documents\net-core\patika-odev1\soru-4\obj\Debug\net6.0\soru-4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LC\Documents\net-core\patika-odev1\soru-4\obj\Debug\net6.0\soru-4.AssemblyInfoInputs.cache
+C:\Users\LC\Documents\net-core\patika-odev1\soru-4\obj\Debug\net6.0\soru-4.AssemblyInfo.cs
+C:\Users\LC\Documents\net-core\patika-odev1\soru-4\obj\Debug\net6.0\soru-4.csproj.CoreCompileInputs.cache
+C:\Users\LC\Documents\net-core\patika-odev1\soru-4\obj\Debug\net6.0\soru-4.dll
+C:\Users\LC\Documents\net-core\patika-odev1\soru-4\obj\Debug\net6.0\refint\soru-4.dll
+C:\Users\LC\Documents\net-core\patika-odev1\soru-4\obj\Debug\net6.0\soru-4.pdb
+C:\Users\LC\Documents\net-core\patika-odev1\soru-4\obj\Debug\net6.0\soru-4.genruntimeconfig.cache
+C:\Users\LC\Documents\net-core\patika-odev1\soru-4\obj\Debug\net6.0\ref\soru-4.dll
