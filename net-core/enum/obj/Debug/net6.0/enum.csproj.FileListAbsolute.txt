@@ -1,0 +1,15 @@
+C:\Users\LC\Documents\net-core\enum\bin\Debug\net6.0\enum.exe
+C:\Users\LC\Documents\net-core\enum\bin\Debug\net6.0\enum.deps.json
+C:\Users\LC\Documents\net-core\enum\bin\Debug\net6.0\enum.runtimeconfig.json
+C:\Users\LC\Documents\net-core\enum\bin\Debug\net6.0\enum.dll
+C:\Users\LC\Documents\net-core\enum\bin\Debug\net6.0\enum.pdb
+C:\Users\LC\Documents\net-core\enum\obj\Debug\net6.0\enum.csproj.AssemblyReference.cache
+C:\Users\LC\Documents\net-core\enum\obj\Debug\net6.0\enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LC\Documents\net-core\enum\obj\Debug\net6.0\enum.AssemblyInfoInputs.cache
+C:\Users\LC\Documents\net-core\enum\obj\Debug\net6.0\enum.AssemblyInfo.cs
+C:\Users\LC\Documents\net-core\enum\obj\Debug\net6.0\enum.csproj.CoreCompileInputs.cache
+C:\Users\LC\Documents\net-core\enum\obj\Debug\net6.0\enum.dll
+C:\Users\LC\Documents\net-core\enum\obj\Debug\net6.0\refint\enum.dll
+C:\Users\LC\Documents\net-core\enum\obj\Debug\net6.0\enum.pdb
+C:\Users\LC\Documents\net-core\enum\obj\Debug\net6.0\enum.genruntimeconfig.cache
+C:\Users\LC\Documents\net-core\enum\obj\Debug\net6.0\ref\enum.dll

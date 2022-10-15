@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "erisim-belirleyiciler-kurucu-fonks/1.0.0": {
+        "runtime": {
+          "erisim-belirleyiciler-kurucu-fonks.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "erisim-belirleyiciler-kurucu-fonks/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
