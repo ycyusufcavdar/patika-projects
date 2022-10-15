@@ -1,0 +1,15 @@
+C:\Users\LC\Documents\net-core\datetime-math\bin\Debug\net6.0\datetime-math.exe
+C:\Users\LC\Documents\net-core\datetime-math\bin\Debug\net6.0\datetime-math.deps.json
+C:\Users\LC\Documents\net-core\datetime-math\bin\Debug\net6.0\datetime-math.runtimeconfig.json
+C:\Users\LC\Documents\net-core\datetime-math\bin\Debug\net6.0\datetime-math.dll
+C:\Users\LC\Documents\net-core\datetime-math\bin\Debug\net6.0\datetime-math.pdb
+C:\Users\LC\Documents\net-core\datetime-math\obj\Debug\net6.0\datetime-math.csproj.AssemblyReference.cache
+C:\Users\LC\Documents\net-core\datetime-math\obj\Debug\net6.0\datetime-math.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LC\Documents\net-core\datetime-math\obj\Debug\net6.0\datetime-math.AssemblyInfoInputs.cache
+C:\Users\LC\Documents\net-core\datetime-math\obj\Debug\net6.0\datetime-math.AssemblyInfo.cs
+C:\Users\LC\Documents\net-core\datetime-math\obj\Debug\net6.0\datetime-math.csproj.CoreCompileInputs.cache
+C:\Users\LC\Documents\net-core\datetime-math\obj\Debug\net6.0\datetime-math.dll
+C:\Users\LC\Documents\net-core\datetime-math\obj\Debug\net6.0\refint\datetime-math.dll
+C:\Users\LC\Documents\net-core\datetime-math\obj\Debug\net6.0\datetime-math.pdb
+C:\Users\LC\Documents\net-core\datetime-math\obj\Debug\net6.0\datetime-math.genruntimeconfig.cache
+C:\Users\LC\Documents\net-core\datetime-math\obj\Debug\net6.0\ref\datetime-math.dll
