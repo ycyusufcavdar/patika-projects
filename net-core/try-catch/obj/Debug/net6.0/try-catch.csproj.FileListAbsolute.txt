@@ -1,0 +1,15 @@
+C:\Users\LC\Documents\net-core\try-catch\bin\Debug\net6.0\try-catch.exe
+C:\Users\LC\Documents\net-core\try-catch\bin\Debug\net6.0\try-catch.deps.json
+C:\Users\LC\Documents\net-core\try-catch\bin\Debug\net6.0\try-catch.runtimeconfig.json
+C:\Users\LC\Documents\net-core\try-catch\bin\Debug\net6.0\try-catch.dll
+C:\Users\LC\Documents\net-core\try-catch\bin\Debug\net6.0\try-catch.pdb
+C:\Users\LC\Documents\net-core\try-catch\obj\Debug\net6.0\try-catch.csproj.AssemblyReference.cache
+C:\Users\LC\Documents\net-core\try-catch\obj\Debug\net6.0\try-catch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LC\Documents\net-core\try-catch\obj\Debug\net6.0\try-catch.AssemblyInfoInputs.cache
+C:\Users\LC\Documents\net-core\try-catch\obj\Debug\net6.0\try-catch.AssemblyInfo.cs
+C:\Users\LC\Documents\net-core\try-catch\obj\Debug\net6.0\try-catch.csproj.CoreCompileInputs.cache
+C:\Users\LC\Documents\net-core\try-catch\obj\Debug\net6.0\try-catch.dll
+C:\Users\LC\Documents\net-core\try-catch\obj\Debug\net6.0\refint\try-catch.dll
+C:\Users\LC\Documents\net-core\try-catch\obj\Debug\net6.0\try-catch.pdb
+C:\Users\LC\Documents\net-core\try-catch\obj\Debug\net6.0\try-catch.genruntimeconfig.cache
+C:\Users\LC\Documents\net-core\try-catch\obj\Debug\net6.0\ref\try-catch.dll
