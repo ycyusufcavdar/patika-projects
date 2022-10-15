@@ -1,0 +1,15 @@
+C:\Users\LC\Documents\net-core\console-programlama\bin\Debug\net6.0\console-programlama.exe
+C:\Users\LC\Documents\net-core\console-programlama\bin\Debug\net6.0\console-programlama.deps.json
+C:\Users\LC\Documents\net-core\console-programlama\bin\Debug\net6.0\console-programlama.runtimeconfig.json
+C:\Users\LC\Documents\net-core\console-programlama\bin\Debug\net6.0\console-programlama.dll
+C:\Users\LC\Documents\net-core\console-programlama\bin\Debug\net6.0\console-programlama.pdb
+C:\Users\LC\Documents\net-core\console-programlama\obj\Debug\net6.0\console-programlama.csproj.AssemblyReference.cache
+C:\Users\LC\Documents\net-core\console-programlama\obj\Debug\net6.0\console-programlama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LC\Documents\net-core\console-programlama\obj\Debug\net6.0\console-programlama.AssemblyInfoInputs.cache
+C:\Users\LC\Documents\net-core\console-programlama\obj\Debug\net6.0\console-programlama.AssemblyInfo.cs
+C:\Users\LC\Documents\net-core\console-programlama\obj\Debug\net6.0\console-programlama.csproj.CoreCompileInputs.cache
+C:\Users\LC\Documents\net-core\console-programlama\obj\Debug\net6.0\console-programlama.dll
+C:\Users\LC\Documents\net-core\console-programlama\obj\Debug\net6.0\refint\console-programlama.dll
+C:\Users\LC\Documents\net-core\console-programlama\obj\Debug\net6.0\console-programlama.pdb
+C:\Users\LC\Documents\net-core\console-programlama\obj\Debug\net6.0\console-programlama.genruntimeconfig.cache
+C:\Users\LC\Documents\net-core\console-programlama\obj\Debug\net6.0\ref\console-programlama.dll

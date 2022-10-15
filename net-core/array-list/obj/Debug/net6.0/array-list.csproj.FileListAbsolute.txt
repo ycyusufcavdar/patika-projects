@@ -1,0 +1,15 @@
+C:\Users\LC\Documents\net-core\array-list\bin\Debug\net6.0\array-list.exe
+C:\Users\LC\Documents\net-core\array-list\bin\Debug\net6.0\array-list.deps.json
+C:\Users\LC\Documents\net-core\array-list\bin\Debug\net6.0\array-list.runtimeconfig.json
+C:\Users\LC\Documents\net-core\array-list\bin\Debug\net6.0\array-list.dll
+C:\Users\LC\Documents\net-core\array-list\bin\Debug\net6.0\array-list.pdb
+C:\Users\LC\Documents\net-core\array-list\obj\Debug\net6.0\array-list.csproj.AssemblyReference.cache
+C:\Users\LC\Documents\net-core\array-list\obj\Debug\net6.0\array-list.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LC\Documents\net-core\array-list\obj\Debug\net6.0\array-list.AssemblyInfoInputs.cache
+C:\Users\LC\Documents\net-core\array-list\obj\Debug\net6.0\array-list.AssemblyInfo.cs
+C:\Users\LC\Documents\net-core\array-list\obj\Debug\net6.0\array-list.csproj.CoreCompileInputs.cache
+C:\Users\LC\Documents\net-core\array-list\obj\Debug\net6.0\array-list.dll
+C:\Users\LC\Documents\net-core\array-list\obj\Debug\net6.0\refint\array-list.dll
+C:\Users\LC\Documents\net-core\array-list\obj\Debug\net6.0\array-list.pdb
+C:\Users\LC\Documents\net-core\array-list\obj\Debug\net6.0\array-list.genruntimeconfig.cache
+C:\Users\LC\Documents\net-core\array-list\obj\Debug\net6.0\ref\array-list.dll
